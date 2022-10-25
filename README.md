@@ -1,2 +1,2 @@
 # codex-attiny85
-pocket devices
+pocket and small devices
