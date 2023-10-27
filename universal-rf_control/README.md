@@ -1,10 +1,10 @@
 Components:
-ATtiny85 Microcontroller.
-433MHz RF Transmitter Module.
-Power Supply (e.g., 3.3V or 5V, depending on your RF module).
-Capacitors (10uF and 100nF).
-Resistors (if required by the RF module).
-External Clock (if not using the internal oscillator).
+- ATtiny85 Microcontroller.
+- 433MHz RF Transmitter Module.
+- Power Supply (e.g., 3.3V or 5V, depending on your RF module).
+- Capacitors (10uF and 100nF).
+- Resistors (if required by the RF module).
+- External Clock (if not using the internal oscillator).
 
 Here's a description of how to connect these components:
 
